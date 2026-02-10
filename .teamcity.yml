@@ -7,5 +7,5 @@ jobs:
       - type: script
         script-content: echo %env.par1%
     parameters:
-      env.par1: '3'
+      env.par1: '7'
     allow-reuse: false
