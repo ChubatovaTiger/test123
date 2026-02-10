@@ -7,4 +7,4 @@ jobs:
       - type: script
         script-content: echo %env.par1%
     parameters:
-      env.par1: '1'
+      env.par1: '2'
