@@ -8,3 +8,4 @@ jobs:
         script-content: echo %env.par1%
     parameters:
       env.par1: '2'
+    allow-reuse: false
